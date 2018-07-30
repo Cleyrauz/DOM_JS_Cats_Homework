@@ -6,3 +6,48 @@
 .red-quote{
   color: red;
 }
+
+
+h1 {
+  display: inline;
+  color:white;
+  font-family:verdana;
+  padding-top:10px;
+  text-shadow: 2px 2px black;
+  font-size: 40px;
+  padding-left: 30px;
+  text-align: center;
+}
+
+body {
+display: flex;
+background-repeat: repeat;
+background-image: url("https://img00.deviantart.net/dffa/i/2011/037/e/c/hipster_cat_by_h2ojames93-d38yxk5.jpg");
+width: 100%;
+min-height: 400px;
+}
+
+ul{
+  list-style-type: none;
+  text-align: center;
+  display: inline-block;
+  align-items: flex-end;
+  display:inline-grid;
+  margin-top: 30px;
+}
+li{
+  color:white;
+  font-family:verdana;
+  padding-top:10px;
+  text-shadow: 2px 2px black;
+  font-size: 24px;
+}
+img{
+  margin: 0 auto;
+  background-color: white;
+  align-items: flex-end;
+  display:inline-grid;
+  border: 1px solid black;
+  margin-left: 80px;
+  margin-bottom: 40px
+}
